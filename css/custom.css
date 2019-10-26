@@ -6,19 +6,20 @@
 .jumbotron{
 	background-image: url('../images/diya1.jpg');
 	margin-bottom: 0px;
-	
 }
 .jumbotron h1{
 	text-align: center;
-	font-family: 'Kaushan Script',block;
+	font-family: 'Kaushan Script',cursive;
 	margin-top: 135px;
     margin-bottom: 92px;
     color: red;
+    font-weight: bolder;
 }
 .jumbotron h2{
 	text-align: right;
 	font-family: 'Kaushan Script', cursive;
     color: green;
+    font-weight: bold;
 
 }
 footer{
